@@ -1,3 +1,7 @@
+//SESIÓN 1
+//RETO 01
+//NORMA YAKRLIN HERRADA LÓPEZ
+
 import java.util.Scanner;
 
 public class Principal {
